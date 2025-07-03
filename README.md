@@ -24,5 +24,4 @@ Certifications: Salesforce Certified AI Associate
 - 🌍 Proven team leader in projects combining cloud, AI, and UX design
 📬 Let's Connect
 📧 pratikdiwte@gmail.com
-🌐 [GitHub Portfolio Coming Soon]
 
