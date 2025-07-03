@@ -26,4 +26,3 @@ Certifications: Salesforce Certified AI Associate
 📧 pratikdiwte@gmail.com
 🌐 [GitHub Portfolio Coming Soon]
 
-If you’d like a matching portfolio README or LinkedIn bio tailored to this, just say the word 😊
